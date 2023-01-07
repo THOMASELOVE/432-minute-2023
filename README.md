@@ -2,7 +2,7 @@
 
 ## Welcome to 432 survey
 
-The first step is to complete the [Welcome to 432 Survey](https://bit.ly/431-2023-welcome-survey) as soon as possible.
+The first step is to complete the [Welcome to 432 Survey](https://bit.ly/432-2023-welcome-survey) as soon as possible.
 
 # Minute Papers for 432 in Spring 2023
 
