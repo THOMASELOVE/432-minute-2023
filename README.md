@@ -10,7 +10,7 @@ During the semester, Professor Love will set a series of "minute papers" which a
 
 After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Feedback
 ----------: | :------: | :--------: | :----------:
-3 (01-24) | 2023-01-25 | https://bit.ly/432-2023-minute-03 | https://github.com/THOMASELOVE/432-classes-2023/blob/main/class04/min-03-feedback.pdf
+3 (01-24) | 2023-01-25 | https://bit.ly/432-2023-minute-03 | [See Class 04 README](https://github.com/THOMASELOVE/432-classes-2023/blob/main/class04/min-03-feedback.pdf)
 5 (01-31) | 2023-02-01 | To Appear | To Appear
 7 (02-07) | 2023-02-08 | To Appear | To Appear
 9 (02-14) | 2023-02-15 | To Appear | To Appear
