@@ -13,7 +13,7 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 3 (01-24) | 2023-01-25 | https://bit.ly/432-2023-minute-03 | [See Class 04 README](https://github.com/THOMASELOVE/432-classes-2023/blob/main/class04/min-03-feedback.pdf)
 5 (01-31) | 2023-02-01 | https://bit.ly/432-2023-minute-05 | [See Class 06 README](https://github.com/THOMASELOVE/432-classes-2023/blob/main/class06/min-05-feedback.pdf)
 7 (02-07) | 2023-02-08 | https://bit.ly/432-2023-minute-07 | [See Class 08 README](https://github.com/THOMASELOVE/432-classes-2023/blob/main/class08/min-07-feedback.pdf)
-9 (02-14) | 2023-02-15 | https://bit.ly/432-2023-minute-09 | To Appear
+9 (02-14) | 2023-02-15 | https://bit.ly/432-2023-minute-09 | [See Class 10 README](https://github.com/THOMASELOVE/432-classes-2023/blob/main/class10/min-09-feedback.pdf)
 11 (02-21) | 2023-02-22 | To Appear | To Appear
 13 (02-28) | 2023-03-01 | To Appear | To Appear
 15 (03-07) | 2023-03-08 | To Appear | To Appear
