@@ -6,7 +6,7 @@ The first step is to complete the [Welcome to 432 Survey](https://bit.ly/432-202
 
 # Minute Papers for 432 in Spring 2023
 
-During the semester, Professor Love will set a series of "minute papers" which are brief surveys asking you to help us better understand how the class is going, and to let us remind you of some things. The first Minute Paper is due after Class 3.
+During the semester, Professor Love will set a series of 11 "minute papers" which are brief surveys asking you to help us better understand how the class is going, and to let us remind you of some things. The first Minute Paper is due after Class 3.
 
 After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Feedback
 ----------: | :------: | :--------: | :----------:
@@ -20,7 +20,6 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 19 (03-28) | 2023-03-29 | To Appear | To Appear
 21 (04-04) | 2023-04-05 | To Appear | To Appear
 23 (04-11) | 2023-04-12 | To Appear | To Appear
-25 (04-18) | 2023-04-19 | To Appear | To Appear
 27 (04-25) | 2023-04-26 | To Appear | To Appear
 
 - You'll need to be logged into Google via CWRU to complete the Minute Papers.
