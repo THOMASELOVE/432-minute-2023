@@ -20,7 +20,7 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 19 (03-28) | 2023-03-29 | To Appear | To Appear
 21 (04-04) | 2023-04-05 | To Appear | To Appear
 23 (04-11) | 2023-04-12 | To Appear | To Appear
-27 (04-25) | 2023-04-26 | To Appear | To Appear
+26 (04-25) | 2023-04-26 | To Appear | To Appear
 
 - You'll need to be logged into Google via CWRU to complete the Minute Papers.
 
